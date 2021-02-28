@@ -2,6 +2,6 @@
 __pycache__
 # .env
 venv
-forwarder.session
+# forwarder.session
 # config.ini
 replace.yml
